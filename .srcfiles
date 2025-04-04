@@ -1,0 +1,3 @@
+gsrc/game.cpp
+D:include/$E_NAME
+T:include/$E_NAME/game.hpp,game.hpp
