@@ -1,3 +1,4 @@
 gsrc/game.cpp
 D:include/$E_NAME
 T:include/$E_NAME/game.hpp,game.hpp
+T:game.st,game.st
