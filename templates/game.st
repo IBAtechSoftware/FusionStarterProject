@@ -18,11 +18,6 @@
 		@LoadingBackground = f_noTexture
 	}
 
-	?Assets {
-		# Path to the asset list file
-		@AssetListPath = $E_NAME.fasl
-	}
-
 	?FileSystem {
         # Array of WLD files to mount, set to [] if no filesystems need to be mounted
         @WLDMounts = []
